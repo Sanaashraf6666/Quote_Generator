@@ -10,6 +10,3 @@ Each page shows random content with a button to refresh and a share-to-Twitter o
 
 ## 📌 Note
 Ayahs are included with verse references to the best of my ability. If any number is incorrect, may Allah forgive the mistake and accept the effort.
-
-**وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ ۚ عَلَيْهِ تَوَكَّلْتُ**  
-_سورة هود: 88_
